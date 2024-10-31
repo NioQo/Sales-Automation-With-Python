@@ -47,10 +47,10 @@ The goal of this project is to automate the process of collecting and formatting
 - Remove unnecessary columns: 'Order Type,' 'Fiat Type,' 'Exchange rate,' 'Maker Fee,' 'Maker Fee Rate,' 'Taker Fee,' 'Taker Fee rate,' 'Counterparty,' 'Status.'
 - Create a column: Exchange Compra = "Binance - [Asset Type]."
 - Add constant column: Banco Envio = "Lemon."
-- Perform the breakdown by:
-- Calculating the daily average "usdt."
-- Setting "Price" to the daily average if Asset Type is BTC or ETH.
-- Calculating "Quantity" as Total Price / Price.
+- Perform calculation per day:
+  - Calculating the daily average "usdt."
+  - Setting "Price" to the daily average if Asset Type is BTC or ETH.
+  - Calculating "Quantity" as Total Price / Price.
 - Reorder columns as needed.
 - Insert a blank row after each day's data.
 - Export table.
