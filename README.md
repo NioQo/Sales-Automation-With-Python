@@ -5,7 +5,7 @@ Tisagar is a cryptocurrency arbitrageur, trading on multiple exchanges to maximi
 
 
 # Introduce
-In this project, we work with data from six cryptocurrency exchanges to automate a monthly profit report
+In this project, we work with data from eight cryptocurrency exchanges to automate a monthly profit report
 - Binance
 - BinanceSpot
 - Fiwind
