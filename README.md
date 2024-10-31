@@ -36,15 +36,14 @@ The goal of this project is to automate the process of collecting and formatting
 - Arrange columns for both tables in the correct order.
 - Export tables.
 ### Binance
-Sell Transactions 
+### Sell Transactions 
 - Remove unnecessary columns: 'Order type,' 'Fiat Type,' 'Exchange rate,' 'Maker fee,' 'Maker Fee Rate,' 'Taker Fee,' 'Taker Fee rate,' 'Counterparty,' 'Status.'
 - Create a column: Exchange Venta = "Binance - [Asset Type]."
 - Add constant column: Banco Recibo = "Lemon."
 - Reorder columns as specified.
 - Insert a blank row after each day's data.
-- Export table.
-Buy Transactions 
-
+- Export table
+### Buy Transactions 
 - Remove unnecessary columns: 'Order Type,' 'Fiat Type,' 'Exchange rate,' 'Maker Fee,' 'Maker Fee Rate,' 'Taker Fee,' 'Taker Fee rate,' 'Counterparty,' 'Status.'
 - Create a column: Exchange Compra = "Binance - [Asset Type]."
 - Add constant column: Banco Envio = "Lemon."
