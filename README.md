@@ -56,5 +56,6 @@ The goal of this project is to automate the process of collecting and formatting
 - Export table.
 
 The same data preparation steps, including column deletions, additions of constant columns, and daily blank row insertions, are applied to other exchanges as needed.
-
-
+# Result
+We have achieved an impressive transformation in our data management. By unifying all transactions into a single Excel file, we have drastically reduced the time required to complete the benefits reporting process. We went from 20 hours per month to just 2 hours per month. Not only does this represent a 90% reduction in work time, but it has also allowed for greater efficiency and accuracy in tracking transactions.
+Importantly, although we continue to deal with exchanges that do not offer the option to download transactions, requiring manual entry and daily calculation of profits, the automation of the other processes has freed up valuable time that was previously spent on tedious tasks.
