@@ -2,6 +2,8 @@
 
 # Abstract
 Tisagar is a cryptocurrency arbitrageur, trading on multiple exchanges to maximize his profits. Each month, Tisagar must declare its profits, which requires daily tracking of transactions across exchanges. However, he faces a significant challenge: each exchange offers a different format for downloading transactions, which complicates the daily recording process. This effort consumes approximately 20 hours per month to complete the Excel required for reporting.
+![image](https://github.com/user-attachments/assets/31d02db2-4a08-4474-946b-e02a722a26d8)
+
 
 
 # Introduce
