@@ -1,19 +1,19 @@
 # Sales-Automation-With-Python
  Profit Report Automation With Python
-Abstract
+# Abstract
 Tisagar is a cryptocurrency arbitrageur, trading on multiple exchanges to maximize his profits. Each month, Tisagar must declare its profits, which requires daily tracking of transactions across exchanges. However, he faces a significant challenge: each exchange offers a different format for downloading transactions, which complicates the daily recording process. This effort consumes approximately 20 hours per month to complete the Excel required for reporting.
 
 
 # Introduce
- In this project, we work with data from six cryptocurrency exchanges to automate a monthly profit report
-Binance
-BinanceSpot
-Fiwind
-Bybit
-Bitget
-OKX
-Bitso
-Lemon
+In this project, we work with data from six cryptocurrency exchanges to automate a monthly profit report
+- Binance
+- BinanceSpot
+- Fiwind
+- Bybit
+- Bitget
+- OKX
+- Bitso
+- Lemon
 
 
 # Objective
