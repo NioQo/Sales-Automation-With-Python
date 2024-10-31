@@ -44,6 +44,7 @@ Sell Transactions
 - Insert a blank row after each day's data.
 - Export table.
 Buy Transactions 
+
 - Remove unnecessary columns: 'Order Type,' 'Fiat Type,' 'Exchange rate,' 'Maker Fee,' 'Maker Fee Rate,' 'Taker Fee,' 'Taker Fee rate,' 'Counterparty,' 'Status.'
 - Create a column: Exchange Compra = "Binance - [Asset Type]."
 - Add constant column: Banco Envio = "Lemon."
